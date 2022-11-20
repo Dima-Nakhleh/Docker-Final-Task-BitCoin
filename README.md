@@ -19,13 +19,19 @@
 4. **Run The Project:**
 -  **You can then Call the API from you browser at : http://localhost:5000/**
 ---
-## **Jenkins Stage View:**
-
----
-## **Slack Message:**
-
----
-### **You can then access Ynet News here: http://localhost:8080/**
----
 ## **Website Page:**
+[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/snip.GIF](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/snip.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/snip.GIF")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/snip.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/snip.GIF")
+----
+- To Stop the App:  
+- docker-compose down
+----
+
+## **Jenkins Stage View:**
 [![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF")
+
+[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins2.GIF](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins2.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins2.GIF")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins2.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins2.GIF")
+---
+## **Docker Hub:**
+[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/dockerhub.GIF](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/dockerhub.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/dockerhub.GIF")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/dockerhub.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/dockerhub.GIF")
+
+

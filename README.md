@@ -1,8 +1,8 @@
 # # Docker Final Task - BitCoin Price
+
 [![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg")
 ----
 
-<img src="https://www.clipartmax.com/png/small/146-1469802_logo-logo-docker.png" alt="Logo - Logo Docker @clipartmax.com">
 ## **The Purpose Of The App:**
 - This App Presents the Current BitCoin Price.
 - Stores the price in a Redis Database.

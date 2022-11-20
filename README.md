@@ -1,4 +1,4 @@
-# # Docker-Final-Task - BitCoin Price
+# # Docker Final Task - BitCoin Price
 
 ## **The Purpose Of The App:**
 - This App Presents the Current BitCoin Price.

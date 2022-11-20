@@ -1,4 +1,4 @@
-### Docker Final Task - BitCoin Price
+## Docker Final Task - BitCoin Price
 
 [![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png")
 ## **The Purpose Of The App:**

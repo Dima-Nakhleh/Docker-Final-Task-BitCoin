@@ -13,10 +13,10 @@
 2. **Go to the project directory:**
 - cd Docker-Final-Task-BitCoin
 
-2. **Build The Project:**
+3. **Build The Project:**
 - docker-compose up -d
 
-3. **Run The Project:**
+4. **Run The Project:**
 -  **You can then Call the API from you browser at : http://localhost:5000/**
 ---
 ## **Jenkins Stage View:**
@@ -28,4 +28,4 @@
 ### **You can then access Ynet News here: http://localhost:8080/**
 ---
 ## **Website Page:**
-
+[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/jenkins.GIF")

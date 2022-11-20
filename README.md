@@ -1,10 +1,4 @@
-# # Docker Final Task - BitCoin Price
-
-[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/docker1.svg")
-----
-[![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg%20-%20Copy.png](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg%20-%20Copy.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg%20-%20Copy.png")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg%20-%20Copy.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg%20-%20Copy.png")
-
-
+### Docker Final Task - BitCoin Price
 
 [![https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png")](https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png "https://github.com/Dima-Nakhleh/Docker-Final-Task-BitCoin/blob/master/img/1280px-Docker_(container_engine)_logo.svg.png")
 ## **The Purpose Of The App:**

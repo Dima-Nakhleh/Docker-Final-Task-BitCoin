@@ -15,6 +15,7 @@ RUN pip install -r requirements.txt
 # the port that the contaier is listening on is 5000.
 EXPOSE 5000
 
-# copy the rest of the code to the container
+#copy all files in the current directory on the host machine,inyo the docker image dir.
+# copy the rest of the code to the container.
 COPY . . 
 CMD ["python3", "app.py"]
